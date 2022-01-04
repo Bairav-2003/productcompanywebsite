@@ -589,7 +589,7 @@ body {
 ![image](https://user-images.githubusercontent.com/94164665/146789918-ec417d8c-1c14-47ed-88b4-1961dd88b7bf.png)
 
 ### people page:
-![image](https://user-images.githubusercontent.com/94164665/146789949-42f2c53a-018c-48ed-8142-01b42d1ead02.png)
+![image](https://user-images.githubusercontent.com/94154692/147999215-fb735c5f-c268-4b05-912e-803f039b4be4.png)
 
 ### contact us page:
 
